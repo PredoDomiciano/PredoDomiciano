@@ -20,9 +20,8 @@ I'm a passionate software developer with a knack for problem-solving and a love 
 
 Here are some of the projects I've been working on:
 
-- [Project1](https://github.com/PredoDomiciano/Project1): A brief description of Project1.
-- [Project2](https://github.com/PredoDomiciano/Project2): A brief description of Project2.
-- [Project3](https://github.com/PredoDomiciano/Project3): A brief description of Project3.
+- [Project1](https://github.com/PredoDomiciano/demo-dao-jdbc): A brief description of Project1.
+
 
 ## Get in Touch
 
