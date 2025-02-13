@@ -27,7 +27,7 @@ Here are some of the projects I've been working on:
 
 Feel free to reach out if you have any questions or just want to connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/predodomiciano/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pedrodomiciano/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/PredoDomiciano)
 
 Thanks for stopping by! 😄
