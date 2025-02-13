@@ -7,7 +7,7 @@ I'm a passionate software developer with a knack for problem-solving and a love 
 - 🔭 I’m currently working on various open-source projects.
 - 🌱 I’m currently learning advanced web development techniques.
 - 💬 Ask me about software development, open-source contributions, or any tech-related topics.
-- 📫 How to reach me: [Email](mailto:predodomiciano@example.com), [LinkedIn](https://www.linkedin.com/in/predodomiciano/)
+- 📫 How to reach me: [Email](mailto:pedrohenrique4254@gmail.com), [LinkedIn](https://www.linkedin.com/in/pedrodomiciano/)
 - ⚡ Fun fact: I love hiking and exploring new places!
 
 ## Skills
