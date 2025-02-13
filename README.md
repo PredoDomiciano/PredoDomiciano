@@ -12,10 +12,9 @@ I'm a passionate software developer with a knack for problem-solving and a love 
 
 ## Skills
 
-- **Languages:** JavaScript, TypeScript, Python, Java
-- **Frameworks/Libraries:** React, Node.js, Express, Django
-- **Tools:** Git, Docker, Kubernetes, Jenkins
-- **Databases:** MySQL, PostgreSQL, MongoDB
+- **Languages:** Python, Java
+- **Tools:** Git, Docker
+- **Databases:** MySQL
 
 ## Projects
 
