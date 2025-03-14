@@ -20,7 +20,7 @@ I'm a passionate software developer with a knack for problem-solving and a love 
 
 Here are some of the projects I've been working on:
 
-- [Project1](https://github.com/PredoDomiciano/demo-dao-jdbc): A brief description of Project1.
+- [JDBC](https://github.com/PredoDomiciano/demo-dao-jdbc): A simple integration of sql and java using JDBC.
 
 
 ## Get in Touch
