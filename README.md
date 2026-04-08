@@ -1,56 +1,51 @@
-# Pedro Domiciano | Software Developer
+# 👋 Olá, eu sou Pedro Domiciano
 
-Desenvolvedor de software com foco em construção de soluções orientadas a negócio, atuando principalmente com **TypeScript**, **Java** e automação de processos.
-
----
-
-## Perfil Profissional
-
-- Desenvolvimento de sistemas com foco em eficiência operacional  
-- Criação de ferramentas internas para ganho de produtividade  
-- Estruturação de aplicações escaláveis e de fácil manutenção  
-- Compromisso com qualidade de código, organização e entrega contínua
+🎯 Desenvolvedor focado em transformar ideias em soluções reais, com experiência em **TypeScript**, **Java** e desenvolvimento de sistemas voltados para negócio.
 
 ---
 
-## Repositórios em Destaque
+## 🚀 Repositórios em Destaque
 
-### [Landry-CRM](https://github.com/PredoDomiciano/Landry-CRM)
-Plataforma de CRM desenvolvida para apoiar operação comercial e relacionamento com clientes, com foco em centralização de informações e padronização de fluxo.
+### ⭐ [Landry-CRM](https://github.com/PredoDomiciano/Landry-CRM)
+Sistema CRM desenvolvido para a Landry Joias, com foco em gestão de clientes, organização de processos e aumento de eficiência comercial.
 
-### [Dropshipping-Automator](https://github.com/PredoDomiciano/Dropshipping-Automator)
-Solução de automação para processos de dropshipping, reduzindo atividades manuais e aumentando a produtividade da operação.
-
----
-
-## Competências Técnicas
-
-**Linguagens e Stack**
-- TypeScript
-- Java
-- Node.js
-
-**Ferramentas e Práticas**
-- Git & GitHub
-- Estruturação de projetos
-- Versionamento e colaboração
-- Boas práticas de desenvolvimento
+### ⚙️ [Dropshipping-Automator](https://github.com/PredoDomiciano/Dropshipping-Automator)
+Projeto de automação para operações de dropshipping, criado para reduzir tarefas manuais e melhorar produtividade.
 
 ---
 
-## Indicadores GitHub
+## 🧠 Sobre mim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PredoDomiciano&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PredoDomiciano&layout=compact&theme=default&hide_border=true)
+- 💼 Interesse em projetos de **automação**, **sistemas internos** e **produtos SaaS**
+- 📚 Sempre estudando boas práticas de arquitetura e código limpo
+- 🔍 Foco em criar aplicações úteis, escaláveis e com impacto real
+- 🚀 Evoluindo constantemente como desenvolvedor full stack
 
 ---
 
-## Contato
+## 🛠️ Tecnologias e Ferramentas
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PredoDomiciano&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PredoDomiciano&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 🌐 Onde me encontrar
 
 - GitHub: [@PredoDomiciano](https://github.com/PredoDomiciano)
 
-<!--
-Opcional: adicione abaixo seu e-mail e LinkedIn
-- E-mail: seuemail@dominio.com
-- LinkedIn: https://linkedin.com/in/seu-link
--->
+---
+
+## 💡 Frase que me representa
+
+> “Tecnologia é a ponte entre problema e solução.”
