@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Pedro Domiciano
+# 👋 Olá, eu sou o Pedro Domiciano
 
 🎯 Desenvolvedor focado em transformar ideias em soluções reais, com experiência em **TypeScript**, **Java** e desenvolvimento de sistemas voltados para negócio.
 
@@ -35,8 +35,8 @@ Projeto de automação para operações de dropshipping, criado para reduzir tar
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PredoDomiciano&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PredoDomiciano&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PredoDomiciano&show_icons=true&count_private=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PredoDomiciano&layout=compact)
 
 ---
 
