@@ -1,41 +1,56 @@
-# Olá, eu sou o Pedro Henrique 👋
+# Pedro Domiciano | Software Developer
 
-### Desenvolvedor de Software e Arquiteto de Soluções
-
-Seja bem-vindo(a) ao meu espaço no GitHub! Sou um desenvolvedor focado em **Java** e na criação de soluções robustas para o universo empresarial. Acredito no poder da tecnologia para integrar diferentes áreas de negócio, otimizar processos e construir sistemas eficientes.
-
-Minha experiência me permitiu aprofundar em desenvolvimento full-stack, com foco em back-end, conectividade com banco de dados e automação de processos.
+Desenvolvedor de software com foco em construção de soluções orientadas a negócio, atuando principalmente com **TypeScript**, **Java** e automação de processos.
 
 ---
 
-### 💼 Minhas Habilidades
+## Perfil Profissional
 
-* **Linguagens de Programação:** Java 17, TypeScript
-* **Banco de Dados:** SQL Server, MySQL
-* **Frameworks e Bibliotecas:** Spring Boot 3, Spring Web, Spring Data JPA, Spring Security, React 18, JavaFX
-* **Automação:** Selenium WebDriver
-* **Ferramentas:** Git, GitHub, JWT (JSON Web Token), Maven, Vite
-
----
-
-### 🚀 Destaques dos Meus Projetos
-
-Aqui estão alguns dos projetos que demonstram meu conhecimento e minhas habilidades:
-
-#### **Sistema-de-Gestao-Interna**
-* **Descrição:** Um **MVP (Produto Mínimo Viável)** de um sistema de gestão interna, desenvolvido para otimizar a gestão de funcionários, folha de pagamento e estoque. O projeto integra as áreas de RH, Financeiro e Controle de Estoque de uma empresa fictícia.
-* **Tecnologias:** Java 17, JavaFX, SQL Server, Git
-* **Funcionalidades:** Gerenciamento de funcionários e cargos, cálculo de folha de pagamento, controle de estoque de produtos, geração de relatórios e validação de dados.
-
-#### **Dropshipping-Automator**
-* **Descrição:** Um projeto **full-stack** criado para simular e automatizar o processo de dropshipping. O sistema integra um front-end em React com um back-end em Spring Boot, automatizando o fluxo completo de uma loja virtual, desde a visualização de produtos até a compra automática em sites de fornecedores.
-* **Tecnologias:** **Back-end:** Java 17, Spring Boot, Spring Security, JWT, SQL Server, Selenium WebDriver. **Front-end:** React 18, TypeScript, Tailwind CSS, `shadcn/ui`.
-* **Foco:** Desenvolvimento full-stack, automação de processos, segurança (JWT) e integração de sistemas.
+- Desenvolvimento de sistemas com foco em eficiência operacional  
+- Criação de ferramentas internas para ganho de produtividade  
+- Estruturação de aplicações escaláveis e de fácil manutenção  
+- Compromisso com qualidade de código, organização e entrega contínua
 
 ---
 
-### 🌱 Conecte-se Comigo
+## Repositórios em Destaque
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/pedrodomiciano/)
+### [Landry-CRM](https://github.com/PredoDomiciano/Landry-CRM)
+Plataforma de CRM desenvolvida para apoiar operação comercial e relacionamento com clientes, com foco em centralização de informações e padronização de fluxo.
 
-Obrigado por visitar meu perfil! Sinta-se à vontade para explorar os repositórios, dar um "star" nos que gostar e entrar em contato.
+### [Dropshipping-Automator](https://github.com/PredoDomiciano/Dropshipping-Automator)
+Solução de automação para processos de dropshipping, reduzindo atividades manuais e aumentando a produtividade da operação.
+
+---
+
+## Competências Técnicas
+
+**Linguagens e Stack**
+- TypeScript
+- Java
+- Node.js
+
+**Ferramentas e Práticas**
+- Git & GitHub
+- Estruturação de projetos
+- Versionamento e colaboração
+- Boas práticas de desenvolvimento
+
+---
+
+## Indicadores GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PredoDomiciano&show_icons=true&theme=default&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PredoDomiciano&layout=compact&theme=default&hide_border=true)
+
+---
+
+## Contato
+
+- GitHub: [@PredoDomiciano](https://github.com/PredoDomiciano)
+
+<!--
+Opcional: adicione abaixo seu e-mail e LinkedIn
+- E-mail: seuemail@dominio.com
+- LinkedIn: https://linkedin.com/in/seu-link
+-->
