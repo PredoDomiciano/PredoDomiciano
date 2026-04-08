@@ -36,7 +36,7 @@ Projeto de automação para operações de dropshipping, criado para reduzir tar
 ## 🌐 Onde me encontrar
 
 - GitHub: [@PredoDomiciano](https://github.com/PredoDomiciano)
-- Linkedin: [@PredoDomiciano](www.linkedin.com/in/pedrodomiciano)
+- Linkedin: www.linkedin.com/in/pedrodomiciano
 - Email: pedrohenrique4254@gmail.com
 
 ---
